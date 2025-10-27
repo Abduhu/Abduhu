@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Abduhu/count.svg" alt="Visitor's Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/Abduhu/Abduhu&title=Visits&icon=github&color=0e75b6" alt="Visitor's Count" />
 </div>
 
 - 👋 Hi, I’m @Abduhu
