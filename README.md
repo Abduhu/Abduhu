@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abduhu</h1>
 
 <p align="center">
-  <em>Quantum Computing Enthusiast | Researcher | Developer</em>
+  <em>Quantum Computing Scientist | Researcher | Scientific Developer</em>
 </p>
 
 ---
