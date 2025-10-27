@@ -8,8 +8,7 @@
 
 ### 👀 About Me
 - 🔭 I’m deeply interested in **(topological) quantum computing**, **optimization algorithms**, and **compartmental models**.  
-- 🌱 I’m currently learning about **surface codes** and exploring **fault-tolerant quantum computing**.  
-- 💞️ I’m looking to collaborate on research and development in **quantum error correction** and **quantum simulation**.  
+- 💞️ I’m looking to collaborate on research and development in **quantum algorithms** and **quantum simulation**.  
 - 📫 Reach me at **abdellah.tounsi@umc.edu.dz**
 
 ---
