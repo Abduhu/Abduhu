@@ -35,9 +35,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Qiskit-Logo.svg" alt="Qiskit" width="80" height="60"/>
-  <img src="https://pennylane.ai/img/logo.png" alt="PennyLane" width="100" height="60"/>
-  <img src="https://qutip.org/static/images/qutip_logo.svg" alt="QuTiP" width="80" height="60"/>
+  <img src="https://raw.githubusercontent.com/Qiskit/qiskit/main/docs/images/qiskit-logo.png" alt="Qiskit" width="100" height="60"/>
+  <img src="https://raw.githubusercontent.com/PennyLaneAI/pennylane/master/doc/_static/logo.svg" alt="PennyLane" width="120" height="60"/>
+  <img src="https://raw.githubusercontent.com/qutip/qutip.github.io/master/files/qutip_logo.png" alt="QuTiP" width="100" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </p>
 
