@@ -21,10 +21,12 @@
 
 ---
 
-### 🕒 Live Clock
+### 🕒 Local Time (Algiers)
+
 <p align="center">
-  <img src="https://github-readme-time.vercel.app/api?timezone=Africa/Algiers&format=24" alt="Clock showing current time" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/timezone/Africa/Algiers&label=Time%20Now&query=datetime&color=0e75b6&style=for-the-badge&logo=clockify" alt="Current time in Algiers">
 </p>
+
 
 ---
 
