@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="100" height="60"/>
   <img src="https://raw.githubusercontent.com/PennyLaneAI/pennylane/master/doc/_static/logo.svg" alt="PennyLane" width="120" height="60"/>
-  <img src="https://raw.githubusercontent.com/qutip/qutip.github.io/master/files/qutip_logo.png" alt="QuTiP" width="100" height="60"/>
+  <img src="https://qutip.org/images/logo.png" alt="QuTiP" width="100" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </p>
 
